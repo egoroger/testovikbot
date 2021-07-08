@@ -1,3 +1,2 @@
 ~BEGIN
-ggg
 ~END
