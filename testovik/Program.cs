@@ -15,13 +15,13 @@ namespace testovik
         public static Command.addu Addu;
         public static void savestor(UserStor _userstor)
         {
-            using (var conn = new NpgsqlConnection("Host=localhost; User Id=postgres;Password=bigrobot;Database=testovik;Port=5432"))
+            using (var conn = new NpgsqlConnection("Host=localhost; User Id=postgres;Password=bigrobot;Database=tester;Port=5432"))
             {
                 conn.Open(); NpgsqlCommand comm;
-                using (comm=new NpgsqlCommand("DROP TABLE IF EXISTS users",conn)) {comm.ExecuteNonQuery();}
-                using (comm = new NpgsqlCommand("CREATE TABLE users(id serial PRIMARY KEY, name VARCHAR(50), istester BOOLEAN)",conn)) {comm.ExecuteNonQuery();}              
+                using (comm=new NpgsqlCommand("DROP TABLE IF EXISTS spisok",conn)) {comm.ExecuteNonQuery();}
+                using (comm = new NpgsqlCommand("CREATE TABLE spisok(id serial PRIMARY KEY, name VARCHAR(50), istester BOOLEAN)",conn)) {comm.ExecuteNonQuery();}              
                 for (int i=0; i<_userstor.count; i++)
-                using (comm=new NpgsqlCommand("INSERT INTO users (name,istester) VALUES (@n"+Convert.ToString(i+1)+",@t"+Convert.ToString(i+1)+")",conn))
+                using (comm=new NpgsqlCommand("INSERT INTO spisok (name,istester) VALUES (@n"+Convert.ToString(i+1)+",@t"+Convert.ToString(i+1)+")",conn))
                 {
                     comm.Parameters.AddWithValue("@n"+Convert.ToString(i+1),_userstor.getu(i).name);
                     comm.Parameters.AddWithValue("@t"+Convert.ToString(i+1),_userstor.getu(i).istester);
@@ -31,10 +31,10 @@ namespace testovik
         }
         public static void load(UserStor _userstor)
         {
-            using (var conn = new NpgsqlConnection("Host=localhost; User Id=postgres;Password=bigrobot;Database=testovik;Port=5432"))
+            using (var conn = new NpgsqlConnection("Host=localhost; User Id=postgres;Password=bigrobot;Database=tester;Port=5432"))
             {
                 conn.Open();
-                using (var comm = new NpgsqlCommand("SELECT * FROM users", conn))
+                using (var comm = new NpgsqlCommand("SELECT * FROM spisok", conn))
                 {
                     var reader=comm.ExecuteReader();
                     while (reader.Read())
