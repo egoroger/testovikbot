@@ -1,0 +1,57 @@
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\testovik.exe
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.csprojAssemblyReference.cache
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.AssemblyInfoInputs.cache
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.AssemblyInfo.cs
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.csproj.CopyComplete
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.csproj.CoreCompileInputs.cache
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\testovik.deps.json
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\testovik.runtimeconfig.json
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\testovik.runtimeconfig.dev.json
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\testovik.dll
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\testovik.pdb
+C:\Users\user.UFNTC0\testovik\bin\Debug\netcoreapp3.1\Telegram.Bot.Extensions.Polling.dll
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.dll
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.pdb
+C:\Users\user.UFNTC0\testovik\obj\Debug\netcoreapp3.1\testovik.genruntimeconfig.cache
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\testovik.exe
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\testovik.deps.json
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\testovik.runtimeconfig.json
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\testovik.runtimeconfig.dev.json
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\testovik.dll
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\testovik.pdb
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\Telegram.Bot.Extensions.Polling.dll
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.AssemblyInfo.cs
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.csproj.CopyComplete
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.dll
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.pdb
+C:\Users\1\Desktop\практика (1)\testovik\obj\Debug\netcoreapp3.1\testovik.genruntimeconfig.cache
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\Lucene.Net.dll
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\1\Desktop\практика (1)\testovik\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\testovik.exe
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\testovik.deps.json
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\testovik.runtimeconfig.json
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\testovik.runtimeconfig.dev.json
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\testovik.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\testovik.pdb
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\Lucene.Net.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\bin\Debug\netcoreapp3.1\Telegram.Bot.Extensions.Polling.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.csprojAssemblyReference.cache
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.csproj.CoreCompileInputs.cache
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.AssemblyInfoInputs.cache
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.AssemblyInfo.cs
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.csproj.CopyComplete
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.dll
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.pdb
+C:\Users\user.UFNTC0\Desktop\testovikbot-main\testovik\obj\Debug\netcoreapp3.1\testovik.genruntimeconfig.cache
